@@ -34,9 +34,9 @@ The C++ version of the Tic-Tac-Toe game is implemented in the `C++` directory.
 To run the C++ version of the game, follow these steps:
 
 1. **Compile the Code**:
-Navigate to the `TicTacToe_Cpp` directory in your terminal and compile the code using a C++ compiler (e.g., `g++`):
+Navigate to the `C++` directory in your terminal and compile the code using a C++ compiler (e.g., `g++`):
     ```bash
-    cd path/to/Unbeatable-AI-Tic-Tac-Toe/TicTacToe_Cpp
+    cd path/to/Unbeatable-AI-Tic-Tac-Toe/C++
     g++ -o tic_tac_toe tic_tac_toe.cpp
     ```
 
