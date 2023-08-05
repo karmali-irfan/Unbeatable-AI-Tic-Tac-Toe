@@ -1,4 +1,4 @@
-# Unbeatable-AI-Tic-Tac-Toe-
+# Unbeatable-AI-Tic-Tac-Toe
 Welcome to the "Unbeatable AI Tic-Tac-Toe" repository! This directory contains two versions of the Tic-Tac-Toe game, implemented using the **minimax algorithm** for unbeatable AI gameplay. Both versions include options for 2-player matches and single-player matches against the AI.
 
 ## Versions
