@@ -14,7 +14,7 @@ To run the C version of the game, follow these steps:
 1. **Compile the Code**:
    Navigate to the `TicTacToe_C` directory in your terminal and compile the code using a C compiler (e.g., `gcc`):
     ```bash
-    cd path/to/Unbeatable-AI-Tic-Tac-Toe/TicTacToe_C
+    cd path/to/Unbeatable-AI-Tic-Tac-Toe
     gcc -o tic_tac_toe tic_tac_toe.c
     ```
 
