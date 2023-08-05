@@ -1,5 +1,5 @@
 # Unbeatable-AI-Tic-Tac-Toe-
-Welcome to the "Unbeatable AI Tic-Tac-Toe" repository! This directory contains two versions of the Tic-Tac-Toe game, implemented using the minimax algorithm for unbeatable AI gameplay. Both versions include options for 2-player matches and single-player matches against the AI.
+Welcome to the "Unbeatable AI Tic-Tac-Toe" repository! This directory contains two versions of the Tic-Tac-Toe game, implemented using the **minimax algorithm** for unbeatable AI gameplay. Both versions include options for 2-player matches and single-player matches against the AI.
 
 ## Versions
 
@@ -51,4 +51,4 @@ Run the compiled executable:
 
 - Choose the mode: 2-player or single-player against the AI.
 - For the 2-player mode, take turns entering row and column numbers to place your moves.
-- For the single-player mode, the AI will automatically play as the second player after your move.
+- For the single-player mode, the AI will automatically play after your move.
