@@ -5,14 +5,14 @@ Welcome to the "Unbeatable AI Tic-Tac-Toe" repository! This directory contains t
 
 ### C Version
 
-The C version of the Tic-Tac-Toe game is implemented in the `TicTacToe_C` directory.
+The C version of the Tic-Tac-Toe game is implemented in the `main` directory.
 
 #### How to Run C Version
 
 To run the C version of the game, follow these steps:
 
 1. **Compile the Code**:
-   Navigate to the `TicTacToe_C` directory in your terminal and compile the code using a C compiler (e.g., `gcc`):
+   Navigate to the `Unbeatable-AI-Tic-Tac-Toe` directory in your terminal and compile the code using a C compiler (e.g., `gcc`):
     ```bash
     cd path/to/Unbeatable-AI-Tic-Tac-Toe
     gcc -o tic_tac_toe tic_tac_toe.c
