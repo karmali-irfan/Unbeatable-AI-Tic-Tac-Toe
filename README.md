@@ -37,7 +37,7 @@ To run the C++ version of the game, follow these steps:
 Navigate to the `C++` directory in your terminal and compile the code using a C++ compiler (e.g., `g++`):
     ```bash
     cd path/to/Unbeatable-AI-Tic-Tac-Toe/C++
-    g++ -o tic_tac_toe tic_tac_toe.cpp
+    g++ -o tic_tac_toe minimax.cpp test_minimax.cpp
     ```
 
 2. **Run the Game**:
